@@ -40,8 +40,6 @@ a {
 #overlay img {
 	margin-top: 10%;
 }
-
-
-
-
-
+#overlay p {
+	color: white;
+}
